@@ -20,6 +20,7 @@ people2 = people.copy()
 print(people)
 # print(people.index("Kevin"))
 
+# tuples:
 coordinates= (4, 5); 
 coordinates[1] = 10
 print(coordinates[1])
